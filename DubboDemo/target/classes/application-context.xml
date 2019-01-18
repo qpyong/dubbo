@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--suppress ALL -->
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:dubbo="http://dubbo.apache.org/schema/dubbo"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd
+       http://dubbo.apache.org/schema/dubbo http://dubbo.apache.org/schema/dubbo/dubbo.xsd
+        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd">
+    <context:annotation-config/>
+    <context:component-scan base-package="org.qpyong.demo"/>
+    <!-- 提供方应用信息，用于计算依赖关系 -->
+    <dubbo:application name="dubbo-demo"/>
+    <!-- 使用multicast/redis注册中心暴露服务地址 -->
+    <dubbo:registry protocol="multicast" address="224.1.2.3:1234"/>
+    <dubbo:registry id="redis" protocol="redis" address="127.0.0.1:6379"/>
+    <dubbo:registry id="zk" protocol="zookeeper" address="localhost:2181" client="zkclient"/>
+    <!-- 用dubbo协议在20880端口[dubbo协议的默认端口]暴露服务 -->
+    <dubbo:protocol name="dubbo" port="20880"/>
+    <!-- 声明需要暴露的服务接口,ref为该接口指向的接口实现类,registry为注册中心beanID -->
+    <dubbo:service registry="zk" interface="org.qpyong.demo.dubbo.api.GoodsService" ref="goodsService" />
+</beans>
