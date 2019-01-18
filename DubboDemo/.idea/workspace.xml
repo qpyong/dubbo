@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3bb976fa-d6b0-499f-905a-559aa2b00478" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../WebDemo/src/main/resources/spring-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DubboApi/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DubboApi/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/qpyong/demo/dubbo/GoodsRemoteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/qpyong/demo/dubbo/GoodsRemoteService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/dubbo-service-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/dubbo-service-1.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDemo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebDemo/src/main/resources/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDemo/src/main/resources/dubbo-service.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebDemo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebDemo/target/classes/application.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebDemo/target/dubbo-web/WEB-INF/classes/application.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../WebDemo/target/dubbo-web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDemo/target/dubbo-web/WEB-INF/web.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3bb976fa-d6b0-499f-905a-559aa2b00478" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -385,7 +370,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547826754010" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547827981953" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebDemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
