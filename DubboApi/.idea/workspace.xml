@@ -2,14 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45054a26-0a1a-4288-ab66-c00b06153730" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../WebDemo/src/main/resources/spring-servlet.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DubboDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DubboDemo/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DubboDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DubboDemo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DubboDemo/src/main/java/org/qpyong/demo/dubbo/GoodsRemoteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DubboDemo/src/main/java/org/qpyong/demo/dubbo/GoodsRemoteService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DubboDemo/target/classes/org/qpyong/demo/dubbo/GoodsRemoteService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DubboDemo/target/classes/org/qpyong/demo/dubbo/Provider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DubboDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../DubboDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DubboDemo/target/classes/org/qpyong/demo/dubbo/GoodsRemoteService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DubboDemo/target/classes/org/qpyong/demo/dubbo/GoodsRemoteService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DubboDemo/target/dubbo-service-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../DubboDemo/target/dubbo-service-1.0.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../DubboDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../DubboDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDemo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDemo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDemo/src/main/resources/application.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDemo/src/main/resources/dubbo-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDemo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDemo/target/classes/application.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDemo/target/dubbo-web/WEB-INF/classes/application.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebDemo/target/dubbo-web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebDemo/target/dubbo-web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -231,7 +237,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="206" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
@@ -361,7 +367,7 @@
       <workItem from="1547706656774" duration="183000" />
       <workItem from="1547707501600" duration="3423000" />
       <workItem from="1547778442126" duration="2235000" />
-      <workItem from="1547820548793" duration="1245000" />
+      <workItem from="1547820548793" duration="1819000" />
     </task>
     <task id="LOCAL-00001" summary="添加注释">
       <created>1543158687132</created>
@@ -388,10 +394,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25041000" />
+    <option name="totallyTimeSpent" value="25615000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3192133" />
