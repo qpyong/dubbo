@@ -10,9 +10,9 @@ import javax.annotation.Resource;
 import java.util.List;
 
 @RestController
-public class DubboApiController {
+public class GoodsController {
 
-    public DubboApiController() {
+    public GoodsController() {
         System.out.println("控制器初始化");
     }
 
